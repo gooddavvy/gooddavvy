@@ -5,7 +5,7 @@ I'm David.
 - 🔭 I’m currently working on a few projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an aspiring astronomer and fine soccer player
-- 🌐 My website is goodnessdavid.repl.co
+- 🌐 My website is [goodnessdavid.repl.co](goodnessdavid.repl.co)
 
 # Bio
 
