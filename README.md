@@ -31,5 +31,6 @@ In 2 and 1/2 of a year, I gained the following skills:
 - Python (I quit using this language)
 - SQL (I learned this from Khan Academy)
 - Git
+- Markdown
 
 Whoa, that's a long list! Interestingly, I gained all that knowledge in less than 3 years.
