@@ -25,6 +25,8 @@ In 2 and 1/2 of a year, I gained the following skills:
 - Next.js
 - Solid.js
 - p5.js (I just started learning this)
+- Three.js (I just started learning this)
+- Gamification.js (this is my package, get it?)
 - GoLang
 - Fiber in GoLang (started learning)
 - V (I'm just interested, don't know much)
