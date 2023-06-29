@@ -3,7 +3,7 @@
 I'm David.
 
 - 🔭 I’m currently working on **a lot** of projects
-- 🌱 I’m currently learning **GoLang**, **VLang** and maybe **Rust**
+- 🌱 I’m currently learning **GoLang**, **VLang**, **ThreeJS**, and maybe **Rust**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an **aspiring jazz musicican**, and **fine and nice soccer player**
 - 🌐 My website is **[goodnessdavid.repl.co](https://goodnessdavid.repl.co)**
