@@ -39,4 +39,4 @@ In 2 and 1/2 of a year, I gained the following skills:
 
 Whoa, that's a long list! Interestingly, I gained all that knowledge in less than 3 years.
 
-**Follower Achievement: I finally made it to 1k+ following! I beat this record 3 times 1,000 on Replit.**
+**Follower Achievement: I finally made it to 3k+ following! I beat this record 1 times 3,000 on Replit.**
