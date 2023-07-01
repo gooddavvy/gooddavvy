@@ -7,7 +7,7 @@ I'm David.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an **aspiring jazz musicican**, and **fine and nice soccer player**
 - 🌐 My website is **[goodnessdavid.repl.co](https://goodnessdavid.repl.co)**
-- 👏🏾 My goal is to follow 90,000+ people on GitHub. This mission has been inspired by [@gamemann](https://github.com/gamemann) who holds the record for 75,000 follows on GitHub. I want to hold the record for the **most** follows on Replit. Nothing can stop me, even with the following restrictions on GitHub.
+- 👏🏾 My goal is to **follow 90,000+ people on GitHub.** This mission has been inspired by [@gamemann](https://github.com/gamemann) who holds the record for 75,000 follows on GitHub. I want to hold the record for the **most** follows on Replit. Nothing can stop me, even with the following restrictions on GitHub.
 
 # My Bio
 
