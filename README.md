@@ -8,7 +8,7 @@ I'm David.
 - 💬 Reach me via **[Discussions](https://github.com/gooddavvy/gooddavvy/discussions)**.
 - ⚡ Fun fact: I am an **aspiring jazz musicican**, and **fine and nice soccer player**
 - 🌐 My website is **[goodnessdavid.repl.co](https://goodnessdavid.repl.co)**
-- 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on Replit. Nothing can stop me, even with the following restrictions on GitHub.
+- 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. Nothing can stop me, even with the following restrictions on GitHub.
 - 👨‍💻 I am trying to develop **useful and creative coding.** Follow me for some of them. 
 
 # My Bio
