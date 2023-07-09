@@ -1,8 +1,14 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  2.5 year experience Software Programmer
+  Awesome Software Programmer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
+<div align="center">
+  <b>Being passionative and creative</b><br/>
+  <b>Software Programmer</b><br/>
+  <b>With 2.5+ years experience</b><br/>
+</div>
 
 # Hi there 👋
 <div align="center">
