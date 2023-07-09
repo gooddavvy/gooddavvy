@@ -1,7 +1,7 @@
 # Hi there 👋
 <div style="margin-rgiht: 100px;">
   <img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" style="text-align: center;" />
-  b style="text-align: center;">I'm David, an exceedingly awesome developer aka AwesomDev</b>
+  <b style="text-align: center;">I'm David, an exceedingly awesome developer aka AwesomDev</b>
 </div>
 
 - 🔭 I’m currently working on **a lot** of projects
