@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
+
 I'm David.
 
 - 🔭 I’m currently working on **a lot** of projects
