@@ -1,5 +1,5 @@
 # Hi there 👋
-<div style="text-align: center;">
+<div style="text-align: center; justify-content: center">
   <img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
   <h2>I'm David, an exceedingly awesome developer aka AwesomDev</h2>
 </div>
