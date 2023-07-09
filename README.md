@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <b>Being passionative and creative</b><br/>
+  <b>Trying to be passionative and creative in coding</b><br/>
   <b>Software Programmer</b><br/>
   <b>With 2.5+ years experience</b><br/>
 </div>
