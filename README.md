@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  2.5 year experience Software Programmer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
 # Hi there 👋
 <div align="center">
   <img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
