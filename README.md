@@ -1,8 +1,8 @@
 # Hi there 👋
-
-<img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
-
-I'm David.
+<div style="text-align: center">
+  <img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
+  <h2>I'm David, an exceedingly awesome developer aka AwesomDev</h2>
+</div>
 
 - 🔭 I’m currently working on **a lot** of projects
 - 🌱 I’m currently learning **GoLang**, **VLang**, **ThreeJS**, and maybe **Rust**
