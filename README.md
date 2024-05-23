@@ -10,7 +10,7 @@
   <b>With 3+ years experience</b><br/>
 </div>
 
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there 👋
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" /> Hi there 👋
 <div align="center">
   <img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
   <br />
@@ -27,18 +27,18 @@
 - ⚡ Fun fact: I am an **aspiring rock musicican**, and **fine and nice soccer player**
 - 🌐 My website is **[goodnessdavid.repl.co](https://goodnessdavid.repl.co)**
 - 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. I don't see anything being able to stop me (even though I may be wrong).
-- 👨‍💻 I am trying to develop **useful and creative coding.** Follow me for some of them.
+- 👨‍💻 I am trying to develop **useful and creative coding.** If you don't mind, [follow me](https://github.com/gooddavvy) for some of them.
 
-## Useful Projects
+## Useful Projects & Tools
 - **[Markdown Repository Snapshot Application](https://github.com/gooddavvy/markdown-repository-snapshot-app)**
 
-# My Bio
+# David's Overview
 
-Hi, I'm David. I am an aspiring astronomer who loves to code, and I've been coding for over 3 years now.
+Hi, my name is David I. Akins. I am an aspiring astronomer who loves to code, and I've been coding for over 3 years now.
 
 My passion for programming started in 2020, the same year I got an account on [Khan Academy](https://khanacademy.org), a free and world-class education for anyone anywhere, which my dad had introduced me to.
 
-In 2 and 1/2 of a year, I gained the following skills:
+In only 2 and and a half of a year, I gained the following skills:
 
 - JavaScript
 - HTML
@@ -51,7 +51,7 @@ In 2 and 1/2 of a year, I gained the following skills:
 - Solid.js
 - p5.js (I just started learning this)
 - Three.js (I just started learning this)
-- Gamification.js (this is my package, get it?)
+- [Gamification.js](https://github.com/gooddavvy/gamification-js) (this is my package, get it?)
 - GoLang
 - Fiber in GoLang (started learning)
 - V (I'm just interested, don't know much)
