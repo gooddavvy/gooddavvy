@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   Awesome Software Programmer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
 <div align="center">
@@ -10,7 +10,7 @@
   <b>With 3+ years experience</b><br/>
 </div>
 
-# Hi there 👋
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there 👋
 <div align="center">
   <img src="https://raw.githubusercontent.com/CharlesDerek/charlesderek/main/assets/hi.webp" />
   <br />
