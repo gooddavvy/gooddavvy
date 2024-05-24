@@ -4,7 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Trying+to+be+passionative+and+creative+with+programming;Software+Programmer;With+over+3+years+experience)
+<div align="center">
+  <b>Trying to be passionative and creative in coding</b><br/>
+  <b>Software Programmer</b><br/>
+  <b>With 3+ years experience</b><br/>
+</div>
 
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="34" /> Hi there 👋
