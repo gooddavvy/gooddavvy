@@ -33,6 +33,7 @@
 ## Useful Projects & Tools
 - **[Markdown Repository Snapshot Application](https://github.com/gooddavvy/markdown-repository-snapshot-app)**
 - **[CMD AI CLI](https://github.com/gooddavvy/cmd-ai-cli)**
+- **[GamificationJS](https://github.com/gooddavvy/gamification-js)**
 
 # David's Overview
 
