@@ -18,7 +18,7 @@
   <h2>I'm David Akins, an exceedingly awesome developer aka AwesomDev</h2>
 </div>
 
-**Total Stars Achieved:**  ![Total Stars](https://img.shields.io/github/stars/gooddavvy?style=flat-square)
+**Total Stars Earned:**  ![Total Stars](https://img.shields.io/github/stars/gooddavvy?style=flat-square)
 
 ## Basic Facts
 - 🔭 I’m currently working on **a lot** of projects
