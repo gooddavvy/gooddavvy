@@ -38,6 +38,8 @@
 
 # David's Overview
 
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
 Hi, my name is David I. Akins. I am an aspiring astronomer who loves to code, and I've been coding for over 3 years now.
 
 My passion for programming started in 2020, the same year I got an account on [Khan Academy](https://khanacademy.org), a free and world-class education for anyone anywhere, which my dad had introduced me to.
