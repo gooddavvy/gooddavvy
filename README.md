@@ -26,7 +26,7 @@
 - 😄 Pronouns: he/him
 - 💬 Reach me via **[Discussions](https://github.com/gooddavvy/gooddavvy/discussions)**.
 - ⚡ Fun fact: I am an **aspiring rock musicican**, and **fine and nice soccer player**
-- 🌐 My website is **[goodnessdavid.repl.co](https://goodnessdavid.repl.co)**
+- 🌐 My website is **[goodnessdavid.repl.co](https://goodnessdavid.repl.co), which may be deprecated**
 - 🎨 My favourite colors are **blue** and **purple**
 - 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. I don't see anything being able to stop me (even though I may be wrong).
 - 😜 Here is a joke for you: **Why was the JavaScript developer sad? Because he didn't Node how to Express himself!**
@@ -36,6 +36,7 @@
 - **[Markdown Repository Snapshot Application](https://github.com/gooddavvy/markdown-repository-snapshot-app)**
 - **[CMD AI CLI](https://github.com/gooddavvy/cmd-ai-cli)**
 - **[GamificationJS](https://github.com/gooddavvy/gamification-js)**
+- **[HTML to Markdown Converter (which may be deprecated)](https://github.com/gooddavvy/html-to-markdown-converter)**
 
 # David's Overview
 
