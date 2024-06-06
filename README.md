@@ -52,7 +52,7 @@ In only my first 2 and a half years, I gained the following skills:
 
 - JavaScript
 - HTML
-- SCSS
+- CSS & SCSS
 - Node.js
 - Express.js
 - TypeScript
