@@ -36,6 +36,7 @@
 - **[Markdown Repository Snapshot Application](https://github.com/gooddavvy/markdown-repository-snapshot-app)**
 - **[CMD AI CLI](https://github.com/gooddavvy/cmd-ai-cli)**
 - **[GamificationJS](https://github.com/gooddavvy/gamification-js)**
+- **[DreamPower](https://github.com/gooddavvy/DreamPower)**
 - **[HTML to Markdown Converter (which may be deprecated)](https://github.com/gooddavvy/html-to-markdown-converter)**
 
 # David's Overview
@@ -59,7 +60,8 @@ In only 2 and and a half of a year, I gained the following skills:
 - Solid.js
 - p5.js (I just started learning this)
 - Three.js (I just started learning this)
-- [Gamification.js](https://github.com/gooddavvy/gamification-js) (this is my package, get it?)
+- [Gamification.js](https://github.com/gooddavvy/gamification-js) (this is _my_ package, get it?)
+- [DreamPower](https://github.com/gooddavvy/DreamPower) (this is _my_ programming language, get it?)
 - GoLang
 - Fiber in GoLang (started learning)
 - V (I'm just interested, don't know much)
