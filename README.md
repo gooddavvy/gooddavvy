@@ -30,7 +30,7 @@
 - 🎨 My favourite colors are **blue** and **purple**
 - 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. I don't see anything being able to stop me (even though I may be wrong).
 - 😜 Here is a joke for you: **Why was the JavaScript developer sad? Because he didn't Node how to Express himself!**
-- 👨‍💻 I am trying to develop **useful and creative coding.** If you don't mind, [follow me](https://github.com/gooddavvy) for some of them.
+- 👨‍💻 I am trying to develop **useful and creative coding.** If you don't mind, [follow me](https://github.com/gooddavvy) for some of them. Feel free to contribute to any of my useful projects.
 
 ## Useful Projects & Tools
 - **[Markdown Repository Snapshot Application](https://github.com/gooddavvy/markdown-repository-snapshot-app)**
@@ -38,7 +38,7 @@
 - **[GamificationJS](https://github.com/gooddavvy/gamification-js)**
 - **[DreamPower](https://github.com/gooddavvy/DreamPower)**
 - **[HTML to Markdown Converter (which may be deprecated)](https://github.com/gooddavvy/html-to-markdown-converter)**
-
+- **[Elia+ (still in progress)](https://github.com/gooddavvy/EliaPlus)
 # David's Overview
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
@@ -70,6 +70,6 @@ In only my first 2 and a half years, I gained the following skills:
 - Git
 - Markdown
 
-Whoah, that's a long list! Interestingly, I gained all that knowledge in less than 3 years.
+Whoah, that's a really, _really_ long list! Interestingly, I gained all that knowledge in less than 3 years.
 
 **Follower Achievement: I finally made it to 3k+ following! I beat this record 1 times 3,000 on Replit.**
