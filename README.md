@@ -18,6 +18,13 @@
   <h2>I'm David Akins, an exceedingly awesome developer aka AwesomDev</h2>
 </div>
 
+<p>
+    Hi, my name is David I. Akins. I am an aspiring astronomer who loves to code, and I've been coding for almost 5 years now.
+</p>
+<p>
+  My passion for programming started sometime in 2020, the same year I got an account on <a href="https://khanacademy.org">Khan Academy</a>, a free and world-class education for anyone anywhere, which my dad had introduced me to.
+</p>
+
 **Total Stars Earned:**  ![Total Stars](https://img.shields.io/github/stars/gooddavvy?style=flat-square)
 
 ## Basic Facts
@@ -40,13 +47,9 @@
 - **[HTML to Markdown Converter (which may be deprecated)](https://github.com/gooddavvy/html-to-markdown-converter)**
 - **[Elia+ (still in progress)](https://github.com/gooddavvy/EliaPlus)**
 
-# David's Overview
+## Skills
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
-
-Hi, my name is David I. Akins. I am an aspiring astronomer who loves to code, and I've been coding for almost 5 years now.
-
-My passion for programming started sometime in 2020, the same year I got an account on [Khan Academy](https://khanacademy.org), a free and world-class education for anyone anywhere, which my dad had introduced me to.
 
 In only my first 2 and a half years, I gained the following skills:
 
