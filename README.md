@@ -47,6 +47,9 @@
 - **[HTML to Markdown Converter (which may be deprecated)](https://github.com/gooddavvy/html-to-markdown-converter)**
 - **[Elia+ (still in progress)](https://github.com/gooddavvy/EliaPlus)**
 
+## Future Projects
+- **Yencoin**: A cryptocurrency. The goal of Yencoin is to make digital points (cryptocurrency "coins") feel more realistic (like Virtual Reality in the Cryptocurrency Era), reliable, relaxing, and enjoyable.
+
 ## Skills
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
