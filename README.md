@@ -46,7 +46,7 @@
 - **[DreamPower](https://github.com/gooddavvy/DreamPower)**
 - **[HTML to Markdown Converter (which may be deprecated)](https://github.com/gooddavvy/html-to-markdown-converter)**
 - **[Elia+ (still in progress)](https://github.com/gooddavvy/EliaPlus)**
-- **[Moretodo](https://github.com/gooddavvvy/moretodo)**
+- **[Moretodo](https://github.com/gooddavvy/moretodo)**
 
 ## Future Projects
 - **Yencoin**: A cryptocurrency. The goal of Yencoin is to make digital points (cryptocurrency "coins") feel more realistic (like Virtual Reality in the Cryptocurrency Era), reliable, relaxing, and enjoyable.
