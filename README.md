@@ -37,7 +37,7 @@
 - 🎨 My favourite colors are **blue** and **purple**
 - 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. I don't see anything being able to stop me (even though I may be wrong).
 - 😜 Here is a joke for you: **Why was the JavaScript developer sad? Because he didn't Node how to Express himself!**
-- 👨‍💻 I am trying to develop **useful and creative coding.** If you don't mind, [follow me](https://github.com/gooddavvy) for some of them. Feel free to contribute to any of my useful projects.
+- 👨‍💻 I am trying to develop **useful and creative coding.** If you don't mind, please [follow me](https://github.com/gooddavvy) and [my tech company](https://github.com/auzuma) for some of them. Feel free to contribute to any of my useful projects.
 
 ## Useful Projects & Tools
 - **[Markdown Repository Snapshot Application](https://github.com/gooddavvy/markdown-repository-snapshot-app)**
