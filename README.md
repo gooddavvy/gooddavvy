@@ -7,7 +7,7 @@
 <div align="center">
   <b>Trying to be passionative and creative in coding</b><br/>
   <b>Software Programmer</b><br/>
-  <b>With 3+ years experience</b><br/>
+  <b>With 4+ years experience</b><br/>
 </div>
 
 
@@ -35,7 +35,8 @@
 - ⚡ Fun fact: I am an **aspiring rock musicican**, and **fine and nice soccer player**
 - 🌐 My website is **[gooddavvy.github.io](https://gooddavvy.github.io)**
 - 🎨 My favourite colors are **blue** and **purple**
-- 👏🏾 My goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. I don't see anything being able to stop me (even though I may be wrong).
+- 👏🏾 My general tech goal is to create useful and innovative technology used by thousands.
+- 👏🏾 My social goal is to **follow 200,000+ people on GitHub.** This mission has been inspired by [@esin](https://github.com/esin) who holds the record for 173,000 follows on GitHub. I want to hold the record for the **most** follows on GitHub. I don't see anything being able to stop me (even though I may be wrong).
 - 😜 Here is a joke for you: **Why was the JavaScript developer sad? Because he didn't Node how to Express himself!**
 - 👨‍💻 I am trying to develop **useful and creative coding.** If you don't mind, please [follow me](https://github.com/gooddavvy) for some of them. Feel free to contribute to any of my useful projects.
 
