@@ -19,7 +19,7 @@
 </div>
 
 <p>
-    Hi, my name is David I. Akins. I am a young aspiring astronomer and tech fan who loves to code, and I've been coding for almost 5 years now.
+    Hi, my name is David I. Akins. I am a young aspiring innovator and tech fan who loves to code, and I've been coding for almost 5 years now.
 </p>
 <p>
   My passion for programming started sometime in 2020, the same year I got an account on <a href="https://khanacademy.org">Khan Academy</a>, a free and world-class education for anyone anywhere, which my dad had introduced me to.
